@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+<!--    <string name="simple_calculator">Simple Calculator</string>-->
+<!--    <string name="plus">Plus</string>-->
+<!--    <string name="minus">Minus</string>-->
+    <string name="result">Result:</string>
+
+</resources>
